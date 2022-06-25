@@ -1,0 +1,5 @@
+tuple = ("P","Y","T","H","O","N","L","A","B")
+print("Tuple:", tuple[:])
+print("index:", tuple.index("P"))
+print("index:",tuple.index("H"))
+print("index:", tuple.index("B"))
